@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can juggle.
 ---
 ## Skills
-- C-languge 
+- C
 - C++
 - HTML and CSS
 - Javascript

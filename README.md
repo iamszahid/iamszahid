@@ -1,12 +1,24 @@
-### Hi there 👋
-  ## I'm Zahid
+### Hi 👋 I'm Zahid
 
-
-Here are some ideas to get you started:
+---
+---
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on react.js
-- 💬 Ask me about anyting
-- ⚡ Fun fact: I can juggle
+- 🌱 I’m currently learning React.js.
+- 👯 I’m looking to collaborate on Web Development.
+- 💬 Ask me about anything.
+- ⚡ Fun fact: I can juggle.
+---
+## Skills
+- C-languge 
+- C++
+- HTML and CSS
+- Javascript
+- React.js
+- Node.js
+- Mongo DB
+- Express
+- Python
 
+---
+---

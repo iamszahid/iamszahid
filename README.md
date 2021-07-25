@@ -15,10 +15,7 @@
 - HTML and CSS
 - Javascript
 - React.js
-- Node.js
-- Mongo DB
-- Express
-- Python
+
 
 ---
 ---

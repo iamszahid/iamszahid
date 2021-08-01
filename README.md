@@ -15,6 +15,7 @@
 - HTML and CSS
 - Javascript
 - React.js
+- SQL
 - Express
 - Node.js
 

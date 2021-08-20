@@ -15,7 +15,8 @@
 - HTML and CSS
 - Javascript
 - React.js
-- Postgres
+- SQL
+- MongoDb
 - Express
 - Node.js
 

@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning CP
 - 👯 I’m looking to collaborate on Web Development
 - 💬 Ask me about anything
 - ⚡ Fun fact: I can juggle
@@ -15,7 +15,7 @@
 - HTML and CSS
 - Javascript
 - React.js
-- SQL
+- PostgresSQL
 - MongoDb
 - Express
 - Node.js

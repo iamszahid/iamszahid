@@ -16,7 +16,6 @@
 - Javascript
 - React.js
 - PostgresSQL
-- MongoDb
 - Express
 - Node.js
 

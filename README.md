@@ -4,8 +4,8 @@
 ---
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning CP
-- 👯 I’m looking to collaborate on Node.js
+- 🌱 I’m currently learning DSA
+<!-- - 👯 I’m looking to collaborate on Node.js -->
 - 💬 Ask me about anything
 - ⚡ Fun fact: I can juggle
 ---
@@ -14,7 +14,7 @@
 - C++
 - HTML and CSS
 - Javascript
-- React.js
+<!-- - React.js -->
 - PostgresSQL
 - Express
 - Node.js

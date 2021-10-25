@@ -14,9 +14,7 @@
 - C++
 - HTML and CSS
 - Javascript
-<!-- - React.js -->
 - PostgresSQL
-
 - Node.js
 
 

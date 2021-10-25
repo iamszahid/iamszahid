@@ -16,7 +16,7 @@
 - Javascript
 <!-- - React.js -->
 - PostgresSQL
-- Express
+
 - Node.js
 
 

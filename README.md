@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning DSA<!-- - 👯 I’m looking to collaborate on Node.js -->
 - 💬 Ask me about anything
-- ⚡ Fun fact: I can juggle
+- ⚡ Fun fact: I can Juggle 
 ---
 ## Skills
 - C
